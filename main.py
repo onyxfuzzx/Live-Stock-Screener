@@ -150,6 +150,5 @@ plot_frame.pack(side=ctk.RIGHT, fill=ctk.BOTH, expand=1, padx=20, pady=20)
 
 # Start the live update
 live_update()
-
 # Run the application
 root.mainloop()
