@@ -1,4 +1,4 @@
-# Real-Time Stock Market Screener
+# Stock Market Screener
 
 ## Overview
 The Real-Time Stock Market Screener is a Python application that allows users to fetch and display real-time stock data, including current price, open price, high price, low price, volume, and moving averages (20-Day and 50-Day). The application uses the `yfinance` library to fetch stock data and `matplotlib` to plot the stock prices and moving averages. The user interface is built using `customtkinter`, providing a modern and visually appealing design.
